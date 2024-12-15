@@ -46,19 +46,20 @@ To use the scripts in this repository, you will need:
   - `tidyr`
 
 Install the required packages by running:
- <pre markdown="1"> ```R
-         install.packages(c("forecast", "ggplot2", "tseries", "dplyr", "tidyr")) </pre>
+```R
+ install.packages(c("forecast", "ggplot2", "tseries", "dplyr", "tidyr"))
+```
 
 ---
 ## **Usage**
 
 1. Clone the repository:
- <pre markdown="1"> ``bash
-            git clone https://github.com/Marta-Barea/time-series-analysis-r.git
-            cd time-series-analysis-r </pre>
-
-2. Open the scripts in RStudio to explore and execute the examples.
-3. Follow the inline comments in the scripts to understand the analysis flow.
+```bash
+   git clone https://github.com/Marta-Barea/time-series-analysis-r.git
+   cd time-series-analysis-r
+```
+3. Open the scripts in RStudio to explore and execute the examples.
+4. Follow the inline comments in the scripts to understand the analysis flow.
 
 ---
 
